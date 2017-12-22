@@ -1,5 +1,0 @@
-/Users/nick/Projects/design_pattern/design_pattern/obj/x86/Debug/design_pattern.csproj.CoreCompileInputs.cache
-/Users/nick/Projects/design_pattern/design_pattern/bin/Debug/design_pattern.exe
-/Users/nick/Projects/design_pattern/design_pattern/bin/Debug/design_pattern.pdb
-/Users/nick/Projects/design_pattern/design_pattern/obj/x86/Debug/design_pattern.exe
-/Users/nick/Projects/design_pattern/design_pattern/obj/x86/Debug/design_pattern.pdb
