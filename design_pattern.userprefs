@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{033609A6-5373-46A3-8514-A17434C9F976}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="design_pattern Status">
+    <Files>
+      <File FileName="design_pattern/singletonInstance.cs" Line="10" Column="16" />
+      <File FileName="design_pattern/Program.cs" Line="15" Column="6" />
+      <File FileName="design_pattern Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Design__Pattern PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
